@@ -279,10 +279,10 @@ public:
 		ImGui::NextColumn();
 
 		ImGui::Text("Endpoints list:");
-		ImGui::TextURL("LCU", "https://lcu.kebs.dev", 1, 0);
+		ImGui::TextURL("LCU", "https://google.com", 1, 0);
 		ImGui::SameLine();
 		ImGui::Text(" | ");
-		ImGui::TextURL("Riot Client", "https://riotclient.kebs.dev", 1, 0);
+		ImGui::TextURL("Riot Client", "https://google.com", 1, 0);
 
 		ImGui::Columns(1);
 

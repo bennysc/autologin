@@ -27,7 +27,7 @@
     <ClCompile Include="DirectX.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KBotExt.cpp">
+    <ClCompile Include="AutoLogin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Utils.cpp">
